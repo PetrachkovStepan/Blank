@@ -1,0 +1,16 @@
+.homeContainer {
+  max-width: 1200px;
+}
+.contentContainer {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  margin: 2.5rem;
+}
+.buttonContainer {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  margin-top: 60px;
+  gap: 20px;
+}

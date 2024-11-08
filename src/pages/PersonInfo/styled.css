@@ -1,0 +1,7 @@
+.personInfoContainer {
+  max-width: 1200px;
+  padding-bottom: 150px;
+}
+#personImg {
+  height: 400px;
+}

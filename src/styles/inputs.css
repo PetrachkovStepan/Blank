@@ -1,0 +1,14 @@
+input {
+  height: 30px;
+  width: 100%;
+  padding: 10px;
+  border-radius: 8px;
+}
+textarea {
+  height: 100px;
+  max-width: 500px;
+  padding: 10px;
+  margin-bottom: 30px;
+  border-radius: 8px;
+  resize: none;
+}

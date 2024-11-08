@@ -1,0 +1,13 @@
+.linkListContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 60px;
+}
+.itemContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  border-bottom: solid black;
+  border-bottom-width: 1px;
+  padding-bottom: 15px;
+}

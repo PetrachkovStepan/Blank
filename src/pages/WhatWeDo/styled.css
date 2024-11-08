@@ -1,0 +1,13 @@
+.homeContainer {
+  max-width: 1200px;
+}
+.contentContainer {
+  display: flex;
+  flex-direction: column;
+}
+.info {
+  display: flex;
+  flex-direction: row;
+  align-items: end;
+  justify-content: space-between;
+}

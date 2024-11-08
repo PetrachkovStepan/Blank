@@ -1,0 +1,12 @@
+button {
+  padding: 10px 25px 10px 25px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+.coloredButton {
+  background: linear-gradient(to right, #e042f5, #8806de);
+  border: none;
+}
+.defaultButton {
+  background: none;
+}

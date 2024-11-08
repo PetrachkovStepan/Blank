@@ -1,0 +1,10 @@
+.ourServicesContainer {
+  width: 100%;
+  max-width: 1200px;
+}
+.listsContainer {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
